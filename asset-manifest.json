@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fridays-app/static/css/main.073c9b0a.css",
+    "main.js": "/fridays-app/static/js/main.8c075e1a.js",
+    "static/js/787.ce3205d0.chunk.js": "/fridays-app/static/js/787.ce3205d0.chunk.js",
+    "static/media/logo.svg": "/fridays-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fridays-app/index.html",
+    "main.073c9b0a.css.map": "/fridays-app/static/css/main.073c9b0a.css.map",
+    "main.8c075e1a.js.map": "/fridays-app/static/js/main.8c075e1a.js.map",
+    "787.ce3205d0.chunk.js.map": "/fridays-app/static/js/787.ce3205d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8c075e1a.js"
+  ]
+}
