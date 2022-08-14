@@ -1,0 +1,29 @@
+.nav {
+  position: relative;
+  top: -40px;
+  height: 50px;
+  border-radius: 4px;
+  background: #000;
+  transition: top 1s linear;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nav_wrap:hover .nav{
+  top: 0px;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+}
+
+.link:hover {
+  color: yellowgreen;
+}
+
+.activeLink {
+  text-decoration: none;
+  color: chartreuse;
+}
